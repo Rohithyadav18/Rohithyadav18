@@ -2,7 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0891b2,100:d4af37&height=280&section=header&text=Rohith%20Mogili%20Golla&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Marketing%20Analytics%20Leader%20%7C%20Revenue%20Growth%20Strategist&descAlignY=55&descSize=22)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/%20rohith-yadav-cs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohithmogiligolla.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-yadav-cs)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithmogiligolla88@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Chicago%2C%20IL-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
@@ -296,5 +297,23 @@ pie title Strategic Expertise Allocation
 </div>
 
 **Strategic Value**: Advanced computer science education provides deep technical foundation enabling sophisticated analytics infrastructure design, algorithm development for predictive modeling, and scalable data engineering solutions supporting enterprise-scale marketing intelligence.
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+Explore my full portfolio, case studies, and project work:
+
+### 👉 [**rohithmogiligolla.com**](https://rohithmogiligolla.com) 👈
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rohithmogiligolla.com-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohithmogiligolla.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohith--yadav--cs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-yadav-cs)
+[![Email](https://img.shields.io/badge/Email-rohithmogiligolla88@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithmogiligolla88@gmail.com)
+
+*Open to Marketing Analyst & Data Analytics opportunities.*
+
+</div>
 
 ---
